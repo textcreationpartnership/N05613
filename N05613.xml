@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:007122_0000_102AFAC6B0ACAD98"/>
-            <pb facs="tcp:007122_0001_102AFA00C68D1BD8" rendition="simple:additions"/>
+            <pb facs="unknown:007122_0000_102AFAC6B0ACAD98"/>
+            <pb facs="unknown:007122_0001_102AFA00C68D1BD8"
+                rendition="simple:additions"/>
             <p>A POEM On viſiting the ACADEMY OF <hi>PHILADELPHIA, June</hi> 1753.</p>
             <q>
                <l>
@@ -134,7 +135,7 @@
                <hi>PHILADELPHIA:</hi> Printed in the YEAR MDCCLIII.</p>
          </div>
          <div type="dedication">
-            <pb n="iii" facs="tcp:007122_0002_102AFA024DA1BF00"/>
+            <pb n="iii" facs="unknown:007122_0002_102AFA024DA1BF00"/>
             <head>
                <hi>To the</hi> TRUSTEES <hi>of the</hi> PHILADELPHIA <hi>ACADEMY.</hi>
             </head>
@@ -143,7 +144,7 @@
             </opener>
             <p>HAVING receiv'd the utmoſt Satisfac<g ref="char:EOLhyphen"/>tion in viſiting your Academy, and exa<g ref="char:EOLhyphen"/>mining ſome of its higher Claſſes, I cou'd not be eaſy 'till I had teſtify'd that Satisfaction in the moſt public Manner. The undeſerv'd No<g ref="char:EOLhyphen"/>tice many of you were pleas'd to take of Me during my ſhort Stay in your City, and the Ho<g ref="char:EOLhyphen"/>nor the Academy (when I firſt went into it) did me, in making one of the Youth ſpeak a Copy of Verſes, which I lately wrote to promote the Intereſt of <hi>Science</hi> in a neighbouring Province, might claim my moſt grateful Acknowleg<g ref="char:EOLhyphen"/>ments.—But what I now offer is a Tribute paid to Merit of a more public Nature. A few pri<g ref="char:EOLhyphen"/>vate Gentlemen of this City have, in the Space of two or three Years, projected, begun, and carried to ſurprizing Perfection, a very noble <hi>In<g ref="char:EOLhyphen"/>ſtitution;</hi> and an Inſtitution of that Kind too, which, in other Countries, has ſcarce made ſuch a Figure in the Space of ſome Centuries, tho' founded by Kings, and ſupported at the public Expence.</p>
             <p>Proſecute, <hi>Gentlemen,</hi> yet a little longer pro<g ref="char:EOLhyphen"/>ſecute your <hi>generous Plan,</hi> with the ſame Spirit; and your own Reputation, with that of your
-<pb n="iv" facs="tcp:007122_0003_102AFA03D568E178"/>
+<pb n="iv" facs="unknown:007122_0003_102AFA03D568E178"/>
                <hi>Academy,</hi> ſhall be eſtabliſh'd, in Spite of every Obſtacle, on a Bottom immortal, and never to be ſhaken. A Succeſſion of <hi>good Men</hi> and <hi>good Ci<g ref="char:EOLhyphen"/>tizens</hi> ſhall never be wanting in <hi>Pennſylvania</hi> to do Honor to your Memories, and diffuſe Spirit and Happineſs thro' their Country.—The Vir<g ref="char:EOLhyphen"/>tues to be chiefly inculcated on your Youth in order to obtain this End, you know better than I. They are however modeſtly hinted, in the fol<g ref="char:EOLhyphen"/>lowing Poem, from a Mouth that cannot fail to give them new Importance:</p>
             <p>The Performance is far inferior to the Subject; but an Apology will not mend it. As I can have no Time to improve it during my Stay in <hi>Ame<g ref="char:EOLhyphen"/>rica,</hi> I beg your Acceptance of it, as it is at pre<g ref="char:EOLhyphen"/>ſent; together with my Promiſe of rendering it more worthy the Subject, when more Leiſure ſhall enable me ſo to do.—</p>
             <p>That the Succeſs of your Undertaking may ſtill exceed even your own moſt ſanguine Hopes, is my earneſt Prayer; as it is my firm Perſuaſion that ſuch a fair Beginning cannot fail of the moſt laſting good Conſequences.</p>
@@ -160,7 +161,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="5" facs="tcp:007122_0004_102AFA0854E6F7A8"/>
+            <pb n="5" facs="unknown:007122_0004_102AFA0854E6F7A8"/>
             <head>A POEM, <hi>&amp;c.</hi>
             </head>
             <lg>
@@ -184,7 +185,7 @@
                <l>The <hi>Roſtrum</hi> mount, with <hi>Britiſh</hi> Ardor warm'd,</l>
                <l>And, by the ſacred Soul of <hi>Glory</hi> charm'd,</l>
                <l>
-                  <pb n="6" facs="tcp:007122_0005_102AFA09DD061D60"/>
+                  <pb n="6" facs="unknown:007122_0005_102AFA09DD061D60"/>
 With Hands out-ſtretch'd, rowl, tingling from their Tongue,</l>
                <l n="16">Sage Truths of <hi>Juſtice, Freedom, Right</hi> and <hi>Wrong,</hi>
                </l>
@@ -220,7 +221,7 @@ With Hands out-ſtretch'd, rowl, tingling from their Tongue,</l>
                <l>By living Streams, in green ambroſial Vales,</l>
                <l>Where ſpicy Arbors ſcent the ambient Gales;</l>
                <l>
-                  <pb n="7" facs="tcp:007122_0006_102AFA0B664F2100"/>
+                  <pb n="7" facs="unknown:007122_0006_102AFA0B664F2100"/>
 And purer Air inveſts the Dew-pearl'd Fields,</l>
                <l>With radiant Light that <hi>Spring</hi> eternal yields.</l>
                <l n="40">
@@ -255,7 +256,7 @@ And purer Air inveſts the Dew-pearl'd Fields,</l>
                <l>'I ſee my <hi>Spirit</hi> ſpread, ennobling, down</l>
                <l>'Thro' all your Country, and its GENIUS grown;</l>
                <l>
-                  <pb n="8" facs="tcp:007122_0007_102AFA0EE77FDCB8"/>
+                  <pb n="8" facs="unknown:007122_0007_102AFA0EE77FDCB8"/>
 'While by your ſofter Arts, and genuine Worth,</l>
                <l n="65">'You riſe the Wonder of the circling Earth.</l>
                <l>'But, with far higher Tranſports I behold,</l>
@@ -292,7 +293,7 @@ And purer Air inveſts the Dew-pearl'd Fields,</l>
                <l>'And this, for Scenes of Woe, the Heart-ſhed <hi>Tear.</hi>
                </l>
                <l n="90">
-                  <pb n="9" facs="tcp:007122_0008_102AFA1202DB1C10"/>
+                  <pb n="9" facs="unknown:007122_0008_102AFA1202DB1C10"/>
 'This gives the modeſt <hi>Air;</hi> the winning <hi>Grace;</hi>
                </l>
                <l>'The ceaſeleſs Aim, the noble Art,—to <hi>Pleaſe:</hi>
@@ -329,7 +330,7 @@ And purer Air inveſts the Dew-pearl'd Fields,</l>
                </l>
                <l>'And faithful <hi>Secreſy</hi> inure your Youth.</l>
                <l>
-                  <pb n="10" facs="tcp:007122_0009_102AFA13890B3750"/>
+                  <pb n="10" facs="unknown:007122_0009_102AFA13890B3750"/>
 'Let them betimes to
 <note n="*" place="bottom">Whoever conſiders the Fundamentals of Government, muſt ſoon be con<g ref="char:EOLhyphen"/>vinc'd of the abſolute Neceſſity of repelling Violence and Inſult. Nor is this inconſiſtent with the ſofteſt Humanity and moſt pacific Diſpoſition.—</note> 
                   <hi>Government</hi> attend,</l>
@@ -362,7 +363,7 @@ And purer Air inveſts the Dew-pearl'd Fields,</l>
                <l>'Soft-twining round <hi>brave Hearts,</hi> this makes them tame</l>
                <l>'As is the Houſhold-Dove, or Hearth-rear'd Lamb.</l>
                <l>
-                  <pb n="11" facs="tcp:007122_0010_102AFA16F83A3210"/>
+                  <pb n="11" facs="unknown:007122_0010_102AFA16F83A3210"/>
 'Tho' <hi>Conqueſt</hi> all her ſplendid Laurels brings,</l>
                <l n="135">'And o'er their Heads expands her Eagle-wings;</l>
                <l>'This drives them to the downy Arms of <hi>Peace,</hi>
@@ -399,7 +400,7 @@ And purer Air inveſts the Dew-pearl'd Fields,</l>
                </l>
                <l>'The ſacred <hi>Leaves</hi> ſent from th' ETERNAL KING:</l>
                <l>
-                  <pb n="12" facs="tcp:007122_0011_102AFA1884A47A00"/>
+                  <pb n="12" facs="unknown:007122_0011_102AFA1884A47A00"/>
 'Or from the <hi>Book</hi> of <hi>Nature,</hi> ever-wide;</l>
                <l>'To purer Breaſts, a ſober-pleaſing Guide.</l>
             </lg>
@@ -437,7 +438,7 @@ And purer Air inveſts the Dew-pearl'd Fields,</l>
                <l>'Shall hold each raging Blaſt, in ſtraiten'd Reins,</l>
                <l>'That tends to vex the placid watry Plains,</l>
                <l>
-                  <pb n="13" facs="tcp:007122_0012_102AFA1AB9810608"/>
+                  <pb n="13" facs="unknown:007122_0012_102AFA1AB9810608"/>
 'While your rich Fleets, diſdaining Limits, roam</l>
                <l n="185">'From diſtant Pole to Pole, along th' unruffled Foam,</l>
                <l>'And launch from Shore with every Tide, or bound tri<g ref="char:EOLhyphen"/>umphant Home.</l>
@@ -467,7 +468,7 @@ And purer Air inveſts the Dew-pearl'd Fields,</l>
                <l>Thus ſings the <hi>Chief,</hi> methinks, on Harp of Gold;</l>
                <l>Nor deem, in ſuch a Cauſe, my Flight too bold.</l>
                <l>
-                  <pb n="14" facs="tcp:007122_0013_102AFA1C8A008818"/>
+                  <pb n="14" facs="unknown:007122_0013_102AFA1C8A008818"/>
 If aught on Earth high Heaven's Attention draws,</l>
                <l n="210">It muſt be—to give <hi>Virtue</hi> juſt Applauſe!</l>
                <l>Nor think mean <hi>Flattery</hi> lurks beneath this Song;</l>
@@ -506,7 +507,7 @@ If aught on Earth high Heaven's Attention draws,</l>
                <l>In <hi>Knowledge, Arts</hi> of <hi>Peace,</hi> and <hi>Living well!</hi>
                </l>
                <l>
-                  <pb n="15" facs="tcp:007122_0014_102AFA1FA5A3D570"/>
+                  <pb n="15" facs="unknown:007122_0014_102AFA1FA5A3D570"/>
 This nobler Strife, ye nobler
 <note n="*" place="bottom">The Cities of <hi>New-York,</hi> and <hi>Philadelphia.</hi>
                   </note> Siſters feed!</l>
@@ -544,7 +545,7 @@ This nobler Strife, ye nobler
                <l>When ſome few Years have roll'd their Toils away,</l>
                <l>And Youth gives Place to Life's meridian Day;</l>
                <l n="255">
-                  <pb n="16" facs="tcp:007122_0015_102AFA22A2C060A8"/>
+                  <pb n="16" facs="unknown:007122_0015_102AFA22A2C060A8"/>
 Not Mother more ſhall joy in her firſt Birth,</l>
                <l>Than I, if, bleſt with all your <hi>Father</hi>'s Worth,</l>
                <l>You riſe, in dangerous Times, your Country's Soul,</l>
